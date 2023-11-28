@@ -9,6 +9,7 @@ public class rev {
 		for (int i = name.length()-1; i>=0; i--) {
 			
 			rev_name= rev_name+name.charAt(i);
+			System.out.println("dfghjk");
 			
 			
 		}
